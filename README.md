@@ -1,4 +1,4 @@
-# flutter_application_1
+# Currency Exchange Application 
 
 A new Flutter project.
 
